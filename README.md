@@ -201,7 +201,7 @@
   <a href="https://discord.gg/EGb69cmD" target="_blank" rel="noopener noreferrer"><img
       src="https://img.icons8.com/color/2x/discord.png" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/u2vklNNdJrWX" target="_blank" rel="noopener noreferrer"><img
+  <a href="https://join.skype.com/vdLD9yL1tDAh" target="_blank" rel="noopener noreferrer"><img
       src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
   &nbsp;&nbsp;
   <p align="center">
